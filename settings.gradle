@@ -1,0 +1,2 @@
+rootProject.name = "WeightLossTracker"
+include ':app'

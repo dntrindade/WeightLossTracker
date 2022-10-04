@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">WeightLossTracker</string>
+    <string name="label_imc">IMC</string>
+    <string name="label_tmb">TMB</string>
+    <string name="label_alimentacao">Dicas sobre Alimentação</string>
+    <string name="label_correr">Caminhar faz bem</string>
+    <string name="imc_desc">IMC é a sigla para Índice de Massa Corporal que serve para avaliar o pesodo indivíduo em relação à sua altura e assim indicar se está dentro do peso ideal,acima ou abaixo do peso desejado.\n\nPreencha os campos de peso e altura para descobrir o seu IMC</string>
+    <string name="alimentacao_desc">Alimentação saudável: dicas para você conseguir manter\n\n
+    1. Alimente-se devagar\nAlimentar-se rápido demais nos deixa a sensação de peso, de sono, e faz com que comamos mais do que o necessário também. Para evitar isso, desligue aparelhos durante as refeições, pois estes podem disparar a ansiedade e fazer você comer depressa. E sempre que possível, almoce na companhia de alguém, para que possam conversar e saborear a comida, fazendo sua refeição mais agradável.\n\n
+    2. Beba, no mínimo, 2 litros de água por dia\nPrecisamos de água pois nosso sangue é composto por 90% dela, e nosso corpo pode variar entre 50% e 75%, então cada vez que perdemos líquido (suor, etc), é preciso repor. Além do mais, a água faz uma limpeza em todo nosso organismo, hidrata nossa pele, e é por ela que vitaminas e minerais chegam nas células de todo nosso corpo.\n\n
+    3. Reduza os níveis de açúcar\nO açúcar refinado é um composto que vem da cana-de-açúcar, porém, toda a parte boa dele foi retirada, sobrando apenas as calorias. Reduzir significa deixar de ingerir uma quantidade de calorias desnecessárias para nosso organismo. Procure também substituir a versão refinada pelo mascavo, por exemplo, que não passou pelo processo de refinamento, e ainda mantém os valores nutricionais.\n\n
+    4. Dê preferência para alimentos integrais\nDa mesma forma acontece com a farinha branca, ou seja, após um processo de refinamento, todo o valor nutricional dela foi retirado, restando apenas o carboidrato.\nPrefira as opções integrais do macarrão, arroz, pão, etc, que ainda preservam os nutrientes naturais. E fique atento para não ser enganado, pois o único tipo de farinha na lista de ingredientes do produto deve ser “Farinha de Trigo Integral”. Se tiver outro tipo de farinha de trigo, o produto não é 100% integral.\n\n
+    5. Inclua alimentos orgânicos em sua alimentação\nEstes são preferidos pois são produzidos sem utilização de agrotóxicos e conservantes, que são substâncias maléficas para o nosso organismo. Caso não seja possível encontrar nestas versões, sempre ao escolher frutas, verduras e legumes, pense em como você as encontraria se estivesse pegando direto do pé. Se oferecerem a você um tomate muito vermelho, muito redondo, de casca lisa e brilhante, fique esperto!\n\n
+    6. Aposte em lanches saudáveis\nQuando saímos de casa as tentações começam a aparecer, já que é muito mais fácil encontrar um lanche industrializado do que algo saudável. Por isso, prepare lanches saudáveis que você possa levar com você, por exemplo um mix de castanhas, que são facilmente transportadas em saquinhos, ou um sanduíche integral, frutas, entre outros, evitando de comer besteiras por aí.\n\n
+    7. Coma a salada primeiro\nNo almoço e no jantar sempre comece suas refeições com a salada, especialmente as saladas frias de folhas verdes, pois são ricas em nutrientes e vitaminas, e são excelentes fontes de fibras que conferirão saciedade, assim quando chegar no prato principal, evitará que você coma além da conta. E quando for escolher a salada, quanto mais colorida ela for, melhor!\n\n
+    8. Consuma frutas todos os dias\nAs frutas são excelentes alimentos, pois são ricas em fibras, vitaminas, minerais, e atuam sempre de forma benéfica em nosso organismo. Consuma, no mínimo, 3 porções por dia, e sempre que possível variando as frutas. Assim você poderá desfrutar de todos os benefícios que elas apresentam.\n\n
+    9. Faça de 4 a 6 refeições por dia\nAssim, você evita ter picos de fome durante o dia, o que te faria ter vontade de comer mais do que o necessário na próxima refeição. Fazendo desta forma, seu organismo estará sempre bem nutrido, e você comerá somente o necessário. Lembre-se que, quanto mais refeições você fizer ao dia, menor será cada porção.</string>
+    <string name="correr_desc">7 dicas para começar a correr de manhã\n\n
+    1. Dormir\n Não vale a pena pensar em ir correr logo de manhã cedo se na noite anterior começou a dormir tarde. E se por algum motivo dormiu mal (insónias ou filhos pequenos), é preferível adiar a corrida matinal para outro dia. Nas vésperas da corrida  convém dormir as 8 horas de sono que a maioria de nós necessita.\n\n
+    2. Despertador bem longe\n Pode ser muito irritante para quem dorme consigo, mas até por causa disso vai ter que se levantar para desligar o despertador. Coloque-o bem longe (mas de forma a que o consiga ouvir). Uma vez levantado será mais difícil voltar para a cama, ou não…\n\n
+    3. Roupa\n Das duas, uma: ou dorme com a roupa que vai correr (sem os ténis, claro), ou se achar exagerado escolha na véspera a roupa para o treino e coloque-a pronta a vestir. Escolha a sua roupa preferida. É mais uma motivação extra para ir correr enquanto a maioria ainda dorme.\n\n
+    4. Planeie o treino\n Na véspera, planeie bem o treino que vai ter. Onde vai correr, qual a distância a que se propõe. Será mais fácil ter um plano assumido do que sair para a rua sem ter ideia para onde ir.\n\n
+    5. Comer\n Coma algo leve. Uma banana e um copo de água são suficientes para o seu treino matinal. Tome o pequeno-almoço depois. Se for pessoa que necessita de alguma substância, aconselho uma ou duas torradas com doce (com pouco açúcar). Evite lacticínios e café. Há maneiras melhores de começar o dia do que ter um daqueles apertos logo na corrida matinal.\n\n
+    6. Companhia\n Se conseguir, tente arranjar um ou vários parceiros de corrida matinal. Arranjar um compromisso entre corredores é meio caminho andado para ir para a rua de manhã, faça sol ou chuva, calor ou chuva.\n\n
+    7. Aproveite as férias\n Nas férias, mesmo com crianças por perto, terá tempo para descansar e relaxar durante o dia. Assim aproveite algumas das manhãs para acordar bem cedo e fazer o seu treino matinal. Quando regressar depois das férias, o seu corpo já está habituado a levantar-se cedo para ir correr.</string>
+    <string name="tmb_desc">TMB é o cálculo para descobrir a quantidade calórica que o corpo necessita com base no seu estilo de vida</string>
+    <string name="weight">Peso (kg)</string>
+    <string name="height">Altura (cm)</string>
+    <string name="calc">CALCULAR</string>
+    <string name="fields_messages">Todos os campos devem ser maiores que 0</string>
+
+    <string name="imc_severely_low_weight">Severamente abaixo do peso</string>
+    <string name="imc_very_low_weight">Muito abaixo do peso</string>
+    <string name="imc_low_weight">Abaixo do peso</string>
+    <string name="normal">Normal</string>
+    <string name="imc_high_weight">Acima do peso</string>
+    <string name="imc_so_high_weight">Moderadamente obeso</string>
+    <string name="imc_severely_high_weight">Severamente obeso</string>
+    <string name="imc_extreme_weight">Extremamente obeso</string>
+    <string name="imc_response">Seu IMC é: %1$.2f</string>
+    <string name="tmb_response">Seu TMB é: %1$.2f</string>
+    <string name="list_response">resultado: %1$.2f, data: %2$s</string>
+    <string name="save">Salvar</string>
+    <string name="saved">Informação salva com sucesso!</string>
+    <string name="search">Registros</string>
+    <string name="age">Idade</string>
+    <string name="delete_message">Você realmente quer apagar esse registro?</string>
+
+</resources>
